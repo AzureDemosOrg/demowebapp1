@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>WELCOME TO DEMO WEB APP1</h1>
+	<%= new Date() %>
 </body>
 </html>
